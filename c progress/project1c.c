@@ -1,3 +1,4 @@
+// Simple Calculator Project
 #include<stdio.h>
 #include<windows.h>
 void add(int x,int y)
