@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<windows.h>
+// Simple Calculator Project
 void add(int x,int y)
 {
 printf("enter two numbers\n");
